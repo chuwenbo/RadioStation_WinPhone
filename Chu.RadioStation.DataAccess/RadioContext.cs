@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chu.RadioStation.DataAccess
+namespace Chu.RadioStation.LocalDatabase
 {
-    public class Class1
+    class RadioContext
     {
     }
 }

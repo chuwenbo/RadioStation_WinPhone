@@ -1,20 +1,52 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.DataAccess", "Chu.RadioStation.DataAccess\Chu.RadioStation.DataAccess.csproj", "{8B345933-2732-42DF-A4EE-9145EE9EE23C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.App", "Chu.RadioStation.App\Chu.RadioStation.App.csproj", "{DA97BCAE-C927-4F75-96A6-BFF82C38811A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.IsolatedStorage", "PhoneClassLibrary2\Chu.RadioStation.IsolatedStorage.csproj", "{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8B345933-2732-42DF-A4EE-9145EE9EE23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B345933-2732-42DF-A4EE-9145EE9EE23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B345933-2732-42DF-A4EE-9145EE9EE23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B345933-2732-42DF-A4EE-9145EE9EE23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|ARM.Build.0 = Debug|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|x86.ActiveCfg = Debug|x86
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|x86.Build.0 = Debug|x86
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Debug|x86.Deploy.0 = Debug|x86
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|ARM.ActiveCfg = Release|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|ARM.Build.0 = Release|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|ARM.Deploy.0 = Release|ARM
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|x86.ActiveCfg = Release|x86
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|x86.Build.0 = Release|x86
+		{DA97BCAE-C927-4F75-96A6-BFF82C38811A}.Release|x86.Deploy.0 = Release|x86
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|ARM.Build.0 = Debug|ARM
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|x86.ActiveCfg = Debug|x86
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Debug|x86.Build.0 = Debug|x86
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|ARM.ActiveCfg = Release|ARM
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|ARM.Build.0 = Release|ARM
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|x86.ActiveCfg = Release|x86
+		{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
