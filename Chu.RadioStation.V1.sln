@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.App", "Chu.RadioStation.App\Chu.RadioStation.App.csproj", "{DA97BCAE-C927-4F75-96A6-BFF82C38811A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.IsolatedStorage", "PhoneClassLibrary2\Chu.RadioStation.IsolatedStorage.csproj", "{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chu.RadioStation.IsolatedStorage", "Chu.RadioStation.IsolatedStorage\Chu.RadioStation.IsolatedStorage.csproj", "{DC1DACA7-A7D5-4A2D-B151-5891EAE3B495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

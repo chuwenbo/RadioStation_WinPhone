@@ -165,7 +165,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PhoneClassLibrary2\Chu.RadioStation.IsolatedStorage.csproj">
+    <ProjectReference Include="..\Chu.RadioStation.IsolatedStorage\Chu.RadioStation.IsolatedStorage.csproj">
       <Project>{dc1daca7-a7d5-4a2d-b151-5891eae3b495}</Project>
       <Name>Chu.RadioStation.IsolatedStorage</Name>
     </ProjectReference>
